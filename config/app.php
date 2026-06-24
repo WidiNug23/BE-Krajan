@@ -55,7 +55,7 @@ return [
     |
     */
 
-    'url' => env('APP_URL', 'digikel.tifpsdku.com'),
+    'url' => env('APP_URL', 'digikel1.tifpsdku.com'),
 
     'asset_url' => env('ASSET_URL'),
 
